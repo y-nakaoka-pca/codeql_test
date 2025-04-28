@@ -1,2 +1,2 @@
 # codeql_test
-hogehoge
+hogehogehoge
